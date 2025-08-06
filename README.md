@@ -2,7 +2,7 @@
 
 ## 自身で準部してローカルに準備出ておくもの
 - 学内の画像データ
-- OSNetの学習済み重み("https://github.com/KaiyangZhou/deep-person-reid"　のModelZooでdownloadする)
+- OSNetの学習済み重み(https://github.com/KaiyangZhou/deep-person-reid)
 ### 転移学習なし
 sweep_and_test_time.py
 
